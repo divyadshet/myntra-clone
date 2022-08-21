@@ -1,1 +1,90 @@
-hello
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>myntra clone</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="util.css" rel="stylesheet" type="text/css" />
+  <script src="https://kit.fontawesome.com/04d1143a37.js" crossorigin="anonymous"></script>
+  
+</head>
+
+<body>
+  <header class="c1">
+    <nav class="flex  spacebetween">
+      <div class="left flex itemscenter ">
+        <img src="https://images.indianexpress.com/2021/01/myntra.png">
+        <ul class="flex justify center bb">
+          <li> MEN </li>
+          <li> WOMEN </li>
+          <li>KIDS </li>
+          <li> HOME & LIVING</li>
+          <li> BEAUTY </li>
+          <li> STUDIO </li>
+        </ul>
+
+      </div>
+
+      <div class="right flex itemscenter ">
+        <div class="cc">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input class="box" type="text" placeholder="Search for produts brands and more">
+        </div>
+        <div class="rightbox">
+          <div class="profile p"> Profile </div>
+          <div class="wishlist p">Wishlist</div>
+          <div class="bag p">Bag</div>
+        </div>
+      </div>
+
+
+    </nav>
+  </header>
+  <section class="container seection1">
+    <img class="home" src="ho.png">
+  </section>
+  <section class="container seection1 flex flex-wrap">
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/3/315b5ab4-fdd8-442a-913f-0950b3c2117b1659531202562-Under_799--4-.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/ea2f11cf-d6ff-4fe2-b5c9-e8a489262dce1659452723208-Everyday-Western-Wear.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/5f3147b7-7719-492e-ab30-290e9084d84a1659452739340-Myntra-Unique-T-Shirts-----1--2-.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/4cf44719-d9d7-4ca6-872f-757b25870a481659452769647-Casual-Footwear--4-.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/9cb2158b-0bc2-4523-b2fd-90c1be1112e61659452849955-Handbags---Bags.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/9092e5e5-f21e-455e-9af7-cffeb9c97f241659452887530-Tops---Tees--15-.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/af1678b7-c9b9-4101-9b98-80b578f8b7d51659452918241-Kitchen---Decor.jpg">
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/f0b590b9-7709-4e4a-8ab8-112d1ca19c3f1659452950505-Tops---Tees--16-.jpg">
+
+
+    <img class="item"
+      src="https://assets.myntassets.com/f_webp,w_108,c_limit,fl_progressive,dpr_2.0/assets/images/2022/8/2/f3502677-2828-401b-8b23-e08e76c452df1659452977095-BIOTIQUE.jpg">
+
+
+
+
+  </section>
+  <footer class="foot">
+    Copyright &copy; myntra.com
+  </footer>
+  <script src="script.js"></script>
+
+
+
+</body>
+
+</html>
